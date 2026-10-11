@@ -69,11 +69,13 @@ An AI-focused finance project exploring technology-assisted financial solutions.
 
 🔗 [View Repository](https://github.com/nandhininandhu1116-gif/Finwell-AI)
 
-### 🎓 Smart Education Loan Tracker
+📊 Sales Analyser
 
-A project focused on simplifying education loan tracking and related information.
+A data analytics project focused on analysing sales data, identifying trends, and presenting insights to support better business decisions.
 
-🔗 [View Repository](https://github.com/nandhininandhu1116-gif/Smart-Education-Loan-Tracker)
+🔗 View Sales Analyser Project
+
+Repository: Manasa9836/sales-analyser
 
 ---
 
