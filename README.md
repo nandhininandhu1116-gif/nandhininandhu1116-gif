@@ -5,27 +5,27 @@
 🎓 Information Science and Engineering Student  
 🐍 Learning Python, Artificial Intelligence, and Machine Learning  
 📊 Interested in Data Analytics and Data Visualization  
-🚀 Building projects to develop my technical and problem-solving skills
+🚀 Building projects to improve my technical and problem-solving skills
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning Python and Data Structures & Algorithms
-- 🤖 Exploring Machine Learning, Generative AI, and AI Agents
-- 📊 Interested in data analysis and interactive dashboards
-- 💡 Enjoy building practical projects and learning new technologies
-- 🎯 Goal: Become an AI Engineer and secure a good campus placement
+- 🌱 Currently learning Python and Data Structures & Algorithms.
+- 🤖 Exploring Machine Learning, Generative AI, and AI Agents.
+- 📊 Interested in data analysis and interactive dashboards.
+- 💡 Enjoy building practical projects and learning new technologies.
+- 🎯 Goal: Become an AI Engineer and secure a good campus placement.
 - 📫 Feel free to connect with me through GitHub or email!
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Programming
+### 💻 Programming
 - Python
 
-### Data Analytics
+### 📊 Data Analytics
 - Pandas
 - NumPy
 - Data Cleaning
@@ -33,14 +33,14 @@
 - Data Visualization
 - Dashboard Development
 
-### AI & Development
+### 🤖 AI & Development
 - Machine Learning Fundamentals
 - Generative AI Fundamentals
 - AI Agents
 - FastAPI Fundamentals
 - REST API Fundamentals
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 - Visual Studio Code
 - PyCharm
 - Git
@@ -67,15 +67,13 @@ A healthcare analytics project focused on hospital admissions, patient analysis,
 
 An AI-focused finance project exploring technology-assisted financial solutions.
 
-🔗 [View Repository](https://github.com/nandhininandhu1116-gif/Finwell-AI)
+🔗 **[View Repository](https://github.com/nandhininandhu1116-gif/Finwell-AI)**
 
-📊 Sales Analyser
+### 📊 Sales Analyser
 
 A data analytics project focused on analysing sales data, identifying trends, and presenting insights to support better business decisions.
 
-🔗 View Sales Analyser Project
-
-Repository: Manasa9836/sales-analyser
+🔗 **[View Sales Analyser Project](https://github.com/Manasa9836/sales-analyser)**
 
 ---
 
@@ -85,7 +83,7 @@ Repository: Manasa9836/sales-analyser
 - Data Structures and Algorithms using Python
 - Machine Learning and Generative AI
 - Building APIs using FastAPI
-- Data Analytics and visualization
+- Data Analytics and Visualization
 - AI-powered applications
 
 ---
